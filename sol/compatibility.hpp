@@ -43,6 +43,7 @@
 #define COMPAT53_INCLUDE_SOURCE 1
 #endif // Build Compat Layer Inline
 #include "compatibility/compat-5.3.h"
+#include "compatibility/compat-5.4.h"
 
 #endif // SOL_NO_COMPAT
 
